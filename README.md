@@ -1,16 +1,12 @@
-## Hi there 👋
+### Oh hi!
 
-<!--
-**Rikir-M/Rikir-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’ve been interested in animations on those crazily beautiful websites these days 🤓
+- So, I’m currently learning to draw on Canvas and laying my hands on GSAP 😏
+- If you want to know more about a video game nerd who is obsessed with creative web design (and animation and games), you can just click [this](mailto:hsuyatimyo11@gmail.com)
+ to email me.
+- Fun facts:
+  - Sea otters hold hands when they sleep 🦦
+  - And um actually ☝🤓 NaN is a number
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ok bye!
+~~Seriously, this README needs a makeover.~~
