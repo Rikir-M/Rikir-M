@@ -1,8 +1,9 @@
 ### Oh hi!
 
 - I’ve been interested in animations on those crazily beautiful websites these days 🤓
-- So, I’m currently learning to draw on Canvas and laying my hands on GSAP 😏
-- If you want to know more about a video game nerd who is obsessed with creative web design (and animation and games), you can just click [this](mailto:hsuyatimyo11@gmail.com)
+- So, I’m currently learning to draw with canvas API and laying my hands on GSAP 😏
+- And trying to pass JLPT N3 this December without studying kanji (I know I won't) 😵‍💫
+- If you want to know more about a video game nerd who is obsessed with creative web design (and animation, AND games), you can just click [this](mailto:hsuyatimyo11@gmail.com)
  to email me.
 
 ## My badges
