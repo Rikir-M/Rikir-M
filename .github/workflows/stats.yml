@@ -10,8 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: production
-    permissions:
-      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -19,5 +17,3 @@ jobs:
           filename: metrics.plugin.isocalendar.svg
           base: ""
           plugin_isocalendar: yes
-          committer_branch: main
-          committer_message: "chore: update metrics"
