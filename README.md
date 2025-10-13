@@ -7,7 +7,7 @@
  to email me.
 
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics">
+  <img src="/metrics.plugin.isocalendar.svg" alt="Iso Half-year Calendar">
 </picture>
 
 ### Ok bye!
