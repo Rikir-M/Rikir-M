@@ -6,8 +6,14 @@
 - If you want to know more about a video game nerd who is obsessed with creative web design (and animation, AND games), you can just click [this](mailto:hsuyatimyo11@gmail.com)
  to email me.
 
-<picture>
-  <img src="/metrics.plugin.isocalendar.svg" alt="Iso Half-year Calendar">
-</picture>
+<div align="center">
+  <picture>
+    <img src="metrics.plugin.isocalendar.svg" alt="Iso Half-year Calendar" width="49%">
+  </picture>
+  <picture>
+    <img src="metrics.plugin.anilist.characters.svg" alt="Characters" width="49%">
+  </picture>
+</div>
+
 
 ### Ok bye!
