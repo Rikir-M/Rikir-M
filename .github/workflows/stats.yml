@@ -24,6 +24,7 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_anilist: yes
+          plugin_anilist_user: rikirAkiko
           plugin_anilist_sections: characters
           plugin_anilist_limit_characters: 8
 
