@@ -10,9 +10,6 @@
   <picture>
     <img src="metrics.plugin.isocalendar.svg" alt="Iso Half-year Calendar" width="49%">
   </picture>
-  <picture>
-    <img src="metrics.plugin.anilist.characters.svg" alt="Characters" width="49%">
-  </picture>
 </div>
 
 
